@@ -1,0 +1,21 @@
+{
+  "name": "newsletter-signup",
+  "version": "1.0.0",
+  "description": "People can sign up to another useless newsletter",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/diamondgelato/WebDevBootcamp/tree/master"
+  },
+  "author": "Mugdha Kurkure",
+  "license": "ISC",
+  "dependencies": {
+    "@mailchimp/mailchimp_marketing": "^3.0.51",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  }
+}

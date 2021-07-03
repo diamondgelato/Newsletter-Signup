@@ -1,0 +1,42 @@
+/* body {
+    background-image: url("images/collage-background.jpg");
+} */
+
+/* .blackLayer {
+    background-color: black;
+    opacity: 0.5;
+} */
+
+/* .form-control {
+    border-radius: 0;
+} */
+
+.display-4 {
+    font-weight: 800;
+}
+
+.jumbotron {
+    padding-left: 5%;
+    padding-right: 5%;
+    background: transparent;
+}
+
+#firstName {
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    margin-bottom: -1px;
+}
+
+#lastName {
+    border-radius: 0;
+    margin-bottom: -1px;
+}
+
+#inputEmail {
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+
+.btn-signup {
+    margin-top: 20px;
+}
